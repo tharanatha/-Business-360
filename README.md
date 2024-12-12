@@ -1,13 +1,13 @@
 # -Business Insights 360 
 
 ## Project Overview
----
+
 AtliQ Hardware is growing rapidly in the recent years, and they have decided to implement the data analytics using PowerBi in their company for the first time to surpass their competitors in the market and to make data driven decisions. This project is hoped to give answers to the questions of stakeholder in terms all the aspects like finance, sales, marketing and supply chain.
 
 I worked on this project by following the Codebasics PowerBi Course, Link to the course is [here live dashboard link](https://app.powerbi.com/view?r=eyJrIjoiNTI0YjllNGQtODM0Mi00MWI5LTgyYjUtNTJiMTMzNWUxYTgwIiwidCI6ImM2ZTU0OWIzLTVmNDUtNDAzMi1hYWU5LWQ0MjQ0ZGM1YjJjNCJ9)
 
 ## Tech Stacks
----
+
 - SQL
 - PowerBI Desktop
 - Excel
@@ -16,7 +16,7 @@ I worked on this project by following the Codebasics PowerBi Course, Link to the
 - Project charter file
 
 ## PowerBI Techniques Learnt
----
+
 - What are all the questions should be asked before staring the project
 - Creating calculated columns
 - creating measure using DAX language
@@ -37,12 +37,12 @@ I worked on this project by following the Codebasics PowerBi Course, Link to the
 - And more 😂
 
 ## GitHub
----
+
 - Uploading Large size files using GitHub LFS
 - Tracking the particular type of file extensions for LFS
 
 ## Bussiness related terms
----
+
 - Gross price
 - Pre-invoice deductions
 - Post-Invoice deductions
@@ -59,7 +59,7 @@ I worked on this project by following the Codebasics PowerBi Course, Link to the
 - Consumer
 
 ## Company's Background
----
+
 AltiQ hardware is a company which has grown vastly in the recent years, and opened business all over the globe. It is a company which sells, computer and computer accessories through three mediums/channel
 - Retailers
 - Direct
@@ -85,5 +85,36 @@ Project kick off session, where you should get clear of for what and why this pr
 After the project kick off meetings, the data engineering team has given the data as per the request of data analytics team, let’s explore them.
 
 ### Dataset Understanding 
+Understanding what data is available will be more helpful while doing analysis. before jumping on to the analysis get good understanding of what are data available.
 
+Dimension table : It will have the static data like details of customer and products
 
+Fact table : It will have the data about the transactions
+
+### importing data into powerBi
+- As the database is MySQL in this project, we need to import the datasets from Mysql database to PowerBi by providing the Database access credential
+
+### Data Model 
+---
+modeling plays a vital role and is considered as the basement of report. All the visuals will be build upon the data model.
+- Poor data modeling affects the over all performance of the report.
+- Following Good practices of data modeling is must.
+- In this project, we have followed Snowfall data modeling method.
+
+ <img width="838" alt="Data_model" src="https://github.com/user-attachments/assets/08815ef1-1774-4a06-839c-9e27f79a03ed" />
+
+ ### dashboard designing 
+ Based on the mock ups received as requirement, the team will start designing the visuals and create measure as and when required.
+
+ ## Home View
+ 
+ In Home view, all the views button will be available. User will land on specific view page by clicking the button
+
+ - Info
+ - Finance View
+ - Sales View
+ - Marketing View
+ - Supply chain View
+ - Executive View
+ - Products
+ - Support
