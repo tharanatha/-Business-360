@@ -119,14 +119,6 @@ modeling plays a vital role and is considered as the basement of report. All the
  - Products
  - Support
 
-## Overall Report 
-
-![Overall](https://github.com/user-attachments/assets/f67826e6-571e-4e9d-9a41-0ea86987da18)
-
-## Info Page 
-
-![Info](https://github.com/user-attachments/assets/e3c899e4-1c0a-44a6-8256-12be8bdbee49)
-
 ## Project Outcome
 
 By using this report, decisions can be taken based on the data. Further it will help in answering n number of why questions based on the situations.
