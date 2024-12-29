@@ -121,7 +121,27 @@ modeling plays a vital role and is considered as the basement of report. All the
 
 ## Overall View 
 
-![Uploading Overall.gif…]()
+![image](https://github.com/user-attachments/assets/332a5236-9ece-47ee-819f-e6bc1af0058a)
+
+## Finance View 
+
+![image](https://github.com/user-attachments/assets/3c36ce7a-28fc-4a59-87d8-bc9f07bda387)
+
+## Sales View
+
+![image](https://github.com/user-attachments/assets/eb41a333-2a34-4cf5-9055-ba372180e9a0)
+
+## Marketing View 
+
+![image](https://github.com/user-attachments/assets/cf49c997-5d71-4370-9ce9-27021a1eccd1)
+
+## Supply Chain View 
+
+![image](https://github.com/user-attachments/assets/160cfebc-b593-4916-8621-020ea3f26d02)
+
+## Executing View
+
+![image](https://github.com/user-attachments/assets/91e601a1-14ec-4035-a6db-ed20f7d66d74)
 
 ## Project Outcome
 
